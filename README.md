@@ -1,0 +1,2 @@
+# kassio-trade
+trade bot
